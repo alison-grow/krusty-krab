@@ -20,7 +20,7 @@ const menu = [
     title: "Jelly Patty",
     category: "patties",
     price: 3.99,
-    img: "/img/Jelly_Patty.webp",
+    img: "./img/Jelly_Patty.webp",
     desc: `A sweet twist on a savory classic. Features a patty, lettuce, tomato, pickle, and fresh-made jellyfish jelly.`,
 },
 {
